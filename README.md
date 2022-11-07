@@ -23,4 +23,4 @@ ___
 ## Deploy with heroku with the button below:
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/Akrasio/Appbot"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg"></a>
 
-Developer: [Akrasio#6075](https://discord.com/users/523579776749928449)
+Developer: [Kevinzz#2006](https://discord.com/users/978219738754875432)
